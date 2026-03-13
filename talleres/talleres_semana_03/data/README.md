@@ -157,6 +157,7 @@ Durante la interpretación de resultados debe considerarse que:
 - los valores bajos en una señal pueden coincidir con valores altos en la otra dentro del mismo día,
 - estas variaciones pueden estar asociadas a la dieta aplicada,
 - la dinámica diaria debe analizarse como respuesta del sistema biológico y no solo como una serie numérica.
+- los gráficos deben tener ejes en el tiempo de 0 al valor en que ocurrieron, por ejemplo 5 minutos, 20 minutos y así.
 
 ## Productos esperados
 
